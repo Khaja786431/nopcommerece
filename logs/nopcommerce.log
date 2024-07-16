@@ -1,0 +1,1116 @@
+2024-07-09 19:08:37:INFO:**************Test_01_Admin_Login*************** 
+2024-07-09 19:08:37:INFO:***********Verification of admin login page title*************** 
+2024-07-09 19:33:01:INFO:**************Test_01_Admin_Login*************** 
+2024-07-09 19:33:01:INFO:***********Verification of admin login page title*************** 
+2024-07-09 19:33:01:INFO:***********Title verification has started*************** 
+2024-07-09 19:33:03:INFO:***********Test valid admin login has  started*************** 
+2024-07-09 19:33:10:INFO:***********Test invalid admin login has started*************** 
+2024-07-09 19:58:40:INFO:**************Test_01_Admin_Login*************** 
+2024-07-09 19:58:40:INFO:***********Verification of admin login page title*************** 
+2024-07-09 19:58:40:INFO:***********Title verification has started*************** 
+2024-07-09 19:58:42:INFO:***********Test valid admin login has  started*************** 
+2024-07-09 19:58:47:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 11:54:04:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 11:54:04:INFO:***********Verification of admin login page title*************** 
+2024-07-10 11:54:04:INFO:***********Title verification has started*************** 
+2024-07-10 11:54:06:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 11:54:11:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:03:48:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:03:48:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:03:48:INFO:***********Title verification has started*************** 
+2024-07-10 12:03:50:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:03:55:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:05:31:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:05:31:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:05:31:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:05:31:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:05:31:INFO:***********Title verification has started*************** 
+2024-07-10 12:05:54:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:05:54:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:05:54:INFO:***********Title verification has started*************** 
+2024-07-10 12:05:55:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:05:55:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:17:39:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:17:39:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:17:39:INFO:***********Title verification has started*************** 
+2024-07-10 12:17:41:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:17:46:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:32:01:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:32:01:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:32:01:INFO:***********Title verification has started*************** 
+2024-07-10 12:32:03:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:32:08:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:36:17:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:36:17:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:36:17:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:36:17:INFO:***********Title verification has started*************** 
+2024-07-10 12:36:17:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 12:42:43:INFO:**************Test_01_Admin_Login*************** 
+2024-07-10 12:42:43:INFO:***********Verification of admin login page title*************** 
+2024-07-10 12:42:43:INFO:***********Title verification has started*************** 
+2024-07-10 12:42:46:INFO:***********Test valid admin login has  started*************** 
+2024-07-10 12:42:50:INFO:***********Test invalid admin login has started*************** 
+2024-07-10 15:00:31:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:03:21:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:06:22:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:06:30:INFO:test data is passed
+2024-07-10 15:06:38:INFO:test data is passed
+2024-07-10 15:10:15:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:10:23:INFO:test data is passed
+2024-07-10 15:10:30:INFO:test data is passed
+2024-07-10 15:14:16:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:14:24:INFO:test data is passed
+2024-07-10 15:15:00:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:15:09:INFO:test data is passed
+2024-07-10 15:15:16:INFO:test data is passed
+2024-07-10 15:16:42:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-10 15:16:50:INFO:test data is passed
+2024-07-10 15:16:57:INFO:test data is passed
+2024-07-10 15:17:03:INFO:test data is passed
+2024-07-10 15:17:03:INFO:Test admin login data driven test is passed...
+2024-07-10 19:33:30:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:33:37:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:33:37:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-10 19:38:59:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:39:04:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:39:04:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-10 19:40:31:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:40:36:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:40:36:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-10 19:40:37:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-10 19:47:21:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:47:26:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:47:26:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-10 19:47:27:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-10 19:47:59:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:48:03:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:48:03:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-10 19:48:04:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-10 19:49:55:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-10 19:50:00:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-10 19:50:00:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:47:21:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:47:24:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:47:24:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:47:25:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:49:02:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:49:05:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:49:05:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:49:05:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:49:05:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:49:06:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:49:06:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:49:57:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:50:02:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:50:02:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:50:02:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:50:02:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:50:03:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:50:03:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:56:46:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:56:52:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:56:52:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:56:52:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:56:52:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:56:53:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:56:53:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:57:28:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:57:33:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:57:33:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:57:33:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:57:33:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:57:33:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:57:34:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:58:35:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:58:40:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:58:40:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:58:40:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:58:40:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:58:41:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:58:42:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 10:59:30:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 10:59:35:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 10:59:35:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 10:59:35:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 10:59:35:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 10:59:36:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 10:59:36:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:00:32:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:00:37:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:00:37:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:00:37:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 11:00:37:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 11:00:38:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 11:00:38:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:12:06:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:12:11:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:12:11:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:12:11:INFO:~~~~~~~~~~~~~~~customer~~~~~~~~~~~~~~~~
+2024-07-12 11:12:11:INFO:~~~~~~~~~~~~~~~customer menu option ~~~~~~~~~~~~~~~~
+2024-07-12 11:12:12:INFO:~~~~~~~~~~~~~~~add new~~~~~~~~~~~~~~~~
+2024-07-12 11:12:13:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:12:16:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:15:11:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:15:15:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:15:15:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:15:16:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:15:20:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:16:28:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:16:33:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:16:33:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:16:34:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:16:37:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:16:44:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:18:13:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:18:16:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:18:16:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:18:17:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:18:21:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:18:27:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:22:21:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:22:26:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:22:26:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:22:28:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:22:31:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:22:37:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:27:03:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:27:07:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:27:07:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:27:08:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:27:11:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:27:18:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:28:27:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:28:30:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:28:30:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:28:32:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:28:35:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:28:38:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:35:49:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:35:55:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:35:55:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:35:56:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:36:00:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:36:03:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:36:56:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:37:01:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:37:01:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:37:02:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:37:06:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:37:12:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 11:38:40:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:38:45:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:38:45:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:38:46:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:38:50:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 11:41:47:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 11:41:50:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 11:41:50:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 11:41:51:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 11:41:55:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:00:38:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:00:44:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:00:44:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:00:45:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:00:49:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:00:55:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:02:28:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:02:33:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:02:33:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:02:34:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:02:37:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:02:43:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:04:13:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:04:16:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:04:16:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:04:17:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:04:20:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:04:23:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:05:52:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:05:55:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:05:55:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:05:56:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:06:00:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:06:03:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:07:57:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:08:04:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:08:04:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:08:05:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:08:09:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:08:15:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:12:24:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:12:28:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:12:28:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:12:30:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:12:33:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:13:52:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:13:56:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:13:56:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:13:57:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:14:01:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:24:08:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:24:13:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:24:13:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:24:14:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:24:18:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:25:35:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:25:40:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:25:40:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:25:41:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:25:45:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:32:49:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:32:54:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:32:54:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:32:55:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:32:59:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:34:11:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:34:15:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:34:15:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:34:16:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:34:17:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:34:20:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:35:48:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:35:51:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:35:51:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:35:52:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:35:53:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:35:56:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:35:59:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:37:41:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:37:44:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:37:44:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:37:46:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:37:46:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:37:49:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:37:52:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:41:10:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:41:14:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:41:14:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:41:16:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:41:16:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:41:19:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:41:22:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:47:25:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:47:30:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:47:30:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:47:31:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:47:32:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:47:35:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:47:38:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:48:36:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:48:39:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:48:39:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:48:40:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:48:41:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:48:44:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:48:47:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:49:39:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:49:44:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:49:44:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:49:46:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:49:47:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:49:50:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:49:53:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:50:52:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:50:56:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:50:56:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:50:57:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:50:58:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:51:01:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 12:51:04:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 12:52:23:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 12:52:28:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 12:52:28:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 12:52:29:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 12:52:30:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 12:52:33:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 13:59:20:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 13:59:24:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 13:59:24:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 13:59:25:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 13:59:26:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 13:59:29:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 13:59:32:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 14:09:59:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:10:04:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:10:04:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:10:05:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:10:06:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:10:09:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:10:12:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 14:11:40:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:11:45:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:11:45:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:11:46:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:11:47:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:11:50:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:11:53:INFO:~~~~~~~~~~~~~~~Guests~~~~~~~~~~~~~~~~
+2024-07-12 14:11:53:INFO:~~~~~~~~~~~~~~~Vendor 1~~~~~~~~~~~~~~~~
+2024-07-12 14:11:54:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 14:12:51:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:12:56:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:12:56:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:12:57:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:12:58:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:13:01:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:13:05:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test failed~~~~~~~~~~~~~~~~
+2024-07-12 14:14:27:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:14:32:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:14:32:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:14:33:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:14:33:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:14:36:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:14:41:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test failed~~~~~~~~~~~~~~~~
+2024-07-12 14:15:14:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:15:19:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:15:19:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:15:20:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:15:21:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:15:24:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:15:28:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test failed~~~~~~~~~~~~~~~~
+2024-07-12 14:16:11:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:16:15:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:16:15:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:16:16:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:16:17:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:16:20:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:16:24:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 14:45:59:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:46:04:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:46:04:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:46:05:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:46:06:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:46:09:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:46:13:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 14:46:27:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:46:32:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:46:32:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:46:34:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:46:35:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 14:46:38:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 14:46:42:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 14:57:24:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:57:29:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:57:29:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:57:30:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 14:57:51:INFO:**************Test_01_Admin_Login*************** 
+2024-07-12 14:57:51:INFO:***********Verification of admin login page title*************** 
+2024-07-12 14:57:51:INFO:***********Title verification has started*************** 
+2024-07-12 14:57:53:INFO:***********Test valid admin login has  started*************** 
+2024-07-12 14:57:58:INFO:***********Test invalid admin login has started*************** 
+2024-07-12 14:58:00:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-12 14:58:08:INFO:test data is passed
+2024-07-12 14:58:15:INFO:test data is passed
+2024-07-12 14:58:21:INFO:test data is passed
+2024-07-12 14:58:21:INFO:Test admin login data driven test is passed...
+2024-07-12 14:59:47:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 14:59:51:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 14:59:51:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 14:59:52:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 15:00:05:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 15:00:08:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 15:00:13:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 15:00:13:INFO:**************Test_01_Admin_Login*************** 
+2024-07-12 15:00:13:INFO:***********Verification of admin login page title*************** 
+2024-07-12 15:00:13:INFO:***********Title verification has started*************** 
+2024-07-12 15:00:15:INFO:***********Test valid admin login has  started*************** 
+2024-07-12 15:00:20:INFO:***********Test invalid admin login has started*************** 
+2024-07-12 15:00:22:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-12 15:00:30:INFO:test data is passed
+2024-07-12 15:00:37:INFO:test data is passed
+2024-07-12 15:00:43:INFO:test data is passed
+2024-07-12 15:00:43:INFO:Test admin login data driven test is passed...
+2024-07-12 15:04:48:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 15:05:02:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 15:05:02:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 15:05:04:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 15:05:05:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 15:05:08:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 15:05:12:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 15:05:48:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 15:05:54:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 15:05:54:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 15:05:55:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 15:05:56:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 15:05:59:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 15:06:03:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-12 15:06:04:INFO:**************Test_01_Admin_Login*************** 
+2024-07-12 15:06:04:INFO:***********Verification of admin login page title*************** 
+2024-07-12 15:06:04:INFO:***********Title verification has started*************** 
+2024-07-12 15:06:06:INFO:***********Test valid admin login has  started*************** 
+2024-07-12 15:06:10:INFO:***********Test invalid admin login has started*************** 
+2024-07-12 15:06:13:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-12 15:06:21:INFO:test data is passed
+2024-07-12 15:06:28:INFO:test data is passed
+2024-07-12 15:06:35:INFO:test data is passed
+2024-07-12 15:06:35:INFO:Test admin login data driven test is passed...
+2024-07-12 18:46:33:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-12 18:46:39:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-12 18:46:39:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-12 18:46:40:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-12 18:46:41:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-12 18:46:44:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-12 18:46:48:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 12:24:08:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 12:24:13:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 12:24:13:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 12:24:14:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 12:24:15:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 12:24:18:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 12:24:22:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 12:42:17:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 12:42:21:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 12:42:21:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 12:42:23:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 12:42:23:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 12:42:26:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 12:42:31:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 13:12:38:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 13:12:42:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 13:12:42:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 13:12:43:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 13:12:44:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 13:12:47:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 13:12:51:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 13:15:15:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 13:15:20:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 13:15:20:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 13:15:21:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 13:15:22:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 13:15:25:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 13:15:29:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 14:40:05:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 14:40:10:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 14:40:10:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 14:40:12:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 14:40:13:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 14:40:16:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 14:40:20:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 14:54:29:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 14:54:34:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 14:54:34:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 14:54:35:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 14:54:36:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 14:54:39:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 14:54:43:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:08:34:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:08:39:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:08:39:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:08:41:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:08:41:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:08:44:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:08:49:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:09:23:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:09:29:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:09:29:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:09:31:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:09:31:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:09:34:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:09:39:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:18:21:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:18:26:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:18:26:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:18:28:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:18:28:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:18:31:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:18:36:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:20:51:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:20:54:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:20:54:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:20:56:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:20:56:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:20:59:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:21:04:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:25:31:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:25:38:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:25:38:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:25:40:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:25:41:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:25:44:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:25:49:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 15:43:55:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:43:56:INFO:Entering 'admin@yourstore.com'
+2024-07-15 15:43:56:INFO:Entering 'admin'
+2024-07-15 15:43:56:INFO:Clicking on 'Login' button
+2024-07-15 15:43:59:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:43:59:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:43:59:INFO:Clicking on 'Customers' menu link
+2024-07-15 15:43:59:INFO:Clicking on 'Customers' from menu options
+2024-07-15 15:44:00:INFO:Clicking on 'Customers' from menu options
+2024-07-15 15:44:01:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:44:01:INFO:Entering email '7v32wpy2@gmail.com'
+2024-07-15 15:44:01:INFO:Entering password
+2024-07-15 15:44:02:INFO:Entering first name 'Jack'
+2024-07-15 15:44:02:INFO:Entering last name 'Jones'
+2024-07-15 15:44:02:INFO:Selecting gender 'Male'
+2024-07-15 15:46:55:INFO:**************Test_03_Add_New_Customer has started************
+2024-07-15 15:46:58:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 15:46:58:INFO:Entering password: 'admin'
+2024-07-15 15:46:58:INFO:Clicking on 'Login' button
+2024-07-15 15:47:03:INFO:~~~~~~~~~~~~~~~Login Completed~~~~~~~~~~~~~~~~
+2024-07-15 15:47:03:INFO:~~~~~~~~~~~~~~~Starting add customer test~~~~~~~~~~~~~~~~
+2024-07-15 15:47:03:INFO:Clicking on 'Customers' menu link
+2024-07-15 15:47:03:INFO:Clicking on 'Customers' from menu options
+2024-07-15 15:47:05:INFO:Clicking on 'Customers' from menu options
+2024-07-15 15:47:06:INFO:~~~~~~~~~~~~~~~Providing customer info started~~~~~~~~~~~~~~~~
+2024-07-15 15:47:06:INFO:Entering email: 'aai3c6qi@outlook.com'
+2024-07-15 15:47:06:INFO:Entering password: 'Test@123
+2024-07-15 15:47:07:INFO:Entering first name: 'Jack'
+2024-07-15 15:47:07:INFO:Entering last name: 'Jones'
+2024-07-15 15:47:07:INFO:Selecting gender: 'Male'
+2024-07-15 15:47:07:INFO:Entering dob: '10/10/1992'
+2024-07-15 15:47:07:INFO:Entering company name: 'MyCompany'
+2024-07-15 15:47:07:INFO:Selecting tax exempt checkbox
+2024-07-15 15:47:07:INFO:~~~~~~~~~~~~~Scroll-UP the page~~~~~~~~~~~~~~~~
+2024-07-15 15:47:07:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 15:47:10:INFO:~~~~~~~~~~~~~~~Test store 2 selected~~~~~~~~~~~~~~~~
+2024-07-15 15:47:10:INFO:Selecting customer role: 'Vendors'
+2024-07-15 15:47:13:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 15:47:13:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 15:47:13:INFO:Clicking on 'Save' button
+2024-07-15 15:47:14:INFO:~~~~~~~~~~~~~~~Test_03_Add_New_Customer test passed~~~~~~~~~~~~~~~~
+2024-07-15 16:16:39:INFO:**************☞➰Test_03_Add_New_Customer has started➰☜************
+2024-07-15 16:16:40:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:16:40:INFO:Entering password: 'admin'
+2024-07-15 16:16:40:INFO:Clicking on 'Login' button
+2024-07-15 16:16:43:INFO:~~~~~~~~~~~~~~~☞Login Completed☜~~~~~~~~~~~~~~~~
+2024-07-15 16:16:43:INFO:~~~~~~~~~~~~~~~☞Starting add customer test☜~~~~~~~~~~~~~~~~
+2024-07-15 16:16:43:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:16:43:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:16:45:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:16:45:INFO:~~~~~~~~~~~~~~~☞Providing customer info started☜~~~~~~~~~~~~~~~~
+2024-07-15 16:16:45:INFO:Entering email: 'ri8jwub1@example.com'
+2024-07-15 16:16:45:INFO:Entering password: 'Test@123
+2024-07-15 16:16:46:INFO:Entering first name: 'Jack'
+2024-07-15 16:16:46:INFO:Entering last name: 'Jones'
+2024-07-15 16:16:46:INFO:Selecting gender: 'Male'
+2024-07-15 16:16:46:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:16:46:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:16:46:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:16:46:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:16:46:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:16:49:INFO:~~~~~~~~~~~~~~~☞Test store 2 selected☜~~~~~~~~~~~~~~~~
+2024-07-15 16:16:49:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:16:52:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:16:52:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:16:52:INFO:Clicking on 'Save' button
+2024-07-15 16:16:53:INFO:~~~~~~~~~~~~~~~❧Test_03_Add_New_Customer test passed❧~~~~~~~~~~~~~~~~
+2024-07-15 16:18:23:INFO:**************☞➰Test_03_Add_New_Customer has started➰☜************
+2024-07-15 16:18:24:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:18:24:INFO:Entering password: 'admin'
+2024-07-15 16:18:24:INFO:Clicking on 'Login' button
+2024-07-15 16:18:26:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:18:26:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:18:26:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:18:27:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:18:27:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:18:28:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:18:28:INFO:Entering email: '76cmr8do@example.com'
+2024-07-15 16:18:28:INFO:Entering password: 'Test@123
+2024-07-15 16:18:28:INFO:Entering first name: 'Jack'
+2024-07-15 16:18:28:INFO:Entering last name: 'Jones'
+2024-07-15 16:18:28:INFO:Selecting gender: 'Male'
+2024-07-15 16:18:28:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:18:28:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:18:28:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:18:28:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:18:28:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:18:31:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:18:31:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:18:34:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:18:34:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:18:34:INFO:Clicking on 'Save' button
+2024-07-15 16:18:36:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:21:22:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:21:24:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:21:24:INFO:Entering password: 'admin'
+2024-07-15 16:21:24:INFO:Clicking on 'Login' button
+2024-07-15 16:21:28:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:21:28:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:21:28:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:21:28:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:21:29:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:21:29:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:21:29:INFO:Entering email: 'fympzjg5@yahoo.com'
+2024-07-15 16:21:29:INFO:Entering password: 'Test@123
+2024-07-15 16:21:30:INFO:Entering first name: 'Jack'
+2024-07-15 16:21:30:INFO:Entering last name: 'Jones'
+2024-07-15 16:21:30:INFO:Selecting gender: 'Male'
+2024-07-15 16:21:30:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:21:30:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:21:30:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:21:30:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:21:30:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:21:33:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:21:33:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:21:36:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:21:36:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:21:36:INFO:Clicking on 'Save' button
+2024-07-15 16:21:38:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:25:31:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:25:32:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:25:32:INFO:Entering password: 'admin'
+2024-07-15 16:25:32:INFO:Clicking on 'Login' button
+2024-07-15 16:25:35:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:25:35:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:25:35:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:25:36:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:25:37:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:25:38:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:25:38:INFO:Entering email: '9ned2arj@example.com'
+2024-07-15 16:25:38:INFO:Entering password: 'Test@123
+2024-07-15 16:25:38:INFO:Entering first name: 'Jack'
+2024-07-15 16:25:38:INFO:Entering last name: 'Jones'
+2024-07-15 16:25:38:INFO:Selecting gender: 'Male'
+2024-07-15 16:25:38:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:25:38:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:25:38:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:25:38:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:25:38:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:25:41:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:25:41:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:25:44:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:25:44:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:25:44:INFO:Clicking on 'Save' button
+2024-07-15 16:25:46:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:26:08:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:26:10:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:26:10:INFO:Entering password: 'admin'
+2024-07-15 16:26:10:INFO:Clicking on 'Login' button
+2024-07-15 16:26:12:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:26:12:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:26:12:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:26:13:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:26:14:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:26:14:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:26:14:INFO:Entering email: '6qmgz1l9@example.com'
+2024-07-15 16:26:14:INFO:Entering password: 'Test@123
+2024-07-15 16:26:15:INFO:Entering first name: 'Jack'
+2024-07-15 16:26:15:INFO:Entering last name: 'Jones'
+2024-07-15 16:26:15:INFO:Selecting gender: 'Male'
+2024-07-15 16:26:15:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:26:15:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:26:15:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:26:15:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:26:15:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:26:18:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:26:18:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:26:21:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:26:21:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:26:21:INFO:Clicking on 'Save' button
+2024-07-15 16:26:23:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:30:05:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:30:06:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:30:06:INFO:Entering password: 'admin'
+2024-07-15 16:30:06:INFO:Clicking on 'Login' button
+2024-07-15 16:30:09:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:30:09:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:30:09:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:30:09:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:30:11:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:30:11:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:30:11:INFO:Entering email: 'l020ydn5@outlook.com'
+2024-07-15 16:30:12:INFO:Entering password: 'Test@123
+2024-07-15 16:30:12:INFO:Entering first name: 'Jack'
+2024-07-15 16:30:12:INFO:Entering last name: 'Jones'
+2024-07-15 16:30:12:INFO:Selecting gender: 'Male'
+2024-07-15 16:30:12:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:30:12:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:30:12:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:30:12:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:30:12:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:30:15:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:30:15:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:30:18:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:30:18:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:30:18:INFO:Clicking on 'Save' button
+2024-07-15 16:30:20:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:34:07:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:34:09:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:34:09:INFO:Entering password: 'admin'
+2024-07-15 16:34:09:INFO:Clicking on 'Login' button
+2024-07-15 16:34:12:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:34:12:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:34:12:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:34:12:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:34:14:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:34:14:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:34:14:INFO:Entering email: 'fnhzkroa@example.com'
+2024-07-15 16:34:14:INFO:Entering password: 'Test@123
+2024-07-15 16:34:14:INFO:Entering first name: 'Jack'
+2024-07-15 16:34:15:INFO:Entering last name: 'Jones'
+2024-07-15 16:34:15:INFO:Selecting gender: 'Male'
+2024-07-15 16:34:15:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:34:15:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:34:15:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:34:15:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:34:15:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:34:18:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:34:18:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:34:21:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:34:21:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:34:21:INFO:Clicking on 'Save' button
+2024-07-15 16:34:22:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:36:51:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:36:52:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:36:52:INFO:Entering password: 'admin'
+2024-07-15 16:36:52:INFO:Clicking on 'Login' button
+2024-07-15 16:36:55:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:36:55:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:36:55:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:36:55:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:36:57:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:36:57:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:36:57:INFO:Entering email: 'oqhan5wg@example.com'
+2024-07-15 16:36:57:INFO:Entering password: 'Test@123
+2024-07-15 16:36:57:INFO:Entering first name: 'Jack'
+2024-07-15 16:36:58:INFO:Entering last name: 'Jones'
+2024-07-15 16:36:58:INFO:Selecting gender: 'Male'
+2024-07-15 16:36:58:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:36:58:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:36:58:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:36:58:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:36:58:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:37:01:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:37:01:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:37:04:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:37:04:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:37:04:INFO:Clicking on 'Save' button
+2024-07-15 16:37:05:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:37:16:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:37:18:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:37:18:INFO:Entering password: 'admin'
+2024-07-15 16:37:18:INFO:Clicking on 'Login' button
+2024-07-15 16:37:21:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:37:21:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:37:21:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:37:21:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:37:22:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:37:22:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:37:22:INFO:Entering email: '1bryzw9t@outlook.com'
+2024-07-15 16:37:22:INFO:Entering password: 'Test@123
+2024-07-15 16:37:23:INFO:Entering first name: 'Jack'
+2024-07-15 16:37:23:INFO:Entering last name: 'Jones'
+2024-07-15 16:37:23:INFO:Selecting gender: 'Male'
+2024-07-15 16:37:23:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:37:23:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:37:23:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:37:23:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:37:23:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:37:26:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:37:26:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:37:29:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:37:29:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:37:29:INFO:Clicking on 'Save' button
+2024-07-15 16:37:30:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:38:10:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:38:13:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:38:13:INFO:Entering password: 'admin'
+2024-07-15 16:38:13:INFO:Clicking on 'Login' button
+2024-07-15 16:38:18:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:38:18:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:38:18:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:38:18:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:38:19:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:38:20:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:38:20:INFO:Entering email: 'yecycma5@gmail.com'
+2024-07-15 16:38:20:INFO:Entering password: 'Test@123
+2024-07-15 16:38:20:INFO:Entering first name: 'Jack'
+2024-07-15 16:38:20:INFO:Entering last name: 'Jones'
+2024-07-15 16:38:20:INFO:Selecting gender: 'Male'
+2024-07-15 16:38:20:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:38:20:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:38:20:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:38:20:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:38:20:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:38:23:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:38:23:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:38:27:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:38:27:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:38:27:INFO:Clicking on 'Save' button
+2024-07-15 16:38:28:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:39:46:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:39:47:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:39:47:INFO:Entering password: 'admin'
+2024-07-15 16:39:47:INFO:Clicking on 'Login' button
+2024-07-15 16:39:49:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:39:49:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:39:49:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:39:49:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:39:51:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:39:52:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:39:52:INFO:Entering email: 'bbt45s7q@outlook.com'
+2024-07-15 16:39:52:INFO:Entering password: 'Test@123
+2024-07-15 16:39:52:INFO:Entering first name: 'Jack'
+2024-07-15 16:39:52:INFO:Entering last name: 'Jones'
+2024-07-15 16:39:52:INFO:Selecting gender: 'Male'
+2024-07-15 16:39:52:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:39:52:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:39:52:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:39:52:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:39:52:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:39:56:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:39:56:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:39:59:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:39:59:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:39:59:INFO:Clicking on 'Save' button
+2024-07-15 16:40:00:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:42:26:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:42:27:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:42:27:INFO:Entering password: 'admin'
+2024-07-15 16:42:27:INFO:Clicking on 'Login' button
+2024-07-15 16:42:30:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:42:30:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:42:30:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:42:30:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:42:31:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:42:31:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:42:31:INFO:Entering email: 'qizkjny2@yahoo.com'
+2024-07-15 16:42:32:INFO:Entering password: 'Test@123
+2024-07-15 16:42:32:INFO:Entering first name: 'Jack'
+2024-07-15 16:42:32:INFO:Entering last name: 'Jones'
+2024-07-15 16:42:33:INFO:Selecting gender: 'Male'
+2024-07-15 16:42:33:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:42:33:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:42:33:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:42:33:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:42:33:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:42:36:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:42:36:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:42:39:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:42:39:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:42:39:INFO:Clicking on 'Save' button
+2024-07-15 16:42:40:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:45:22:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:45:23:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:45:23:INFO:Entering password: 'admin'
+2024-07-15 16:45:23:INFO:Clicking on 'Login' button
+2024-07-15 16:45:31:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:45:31:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:45:31:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:45:31:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:45:32:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:45:32:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:45:32:INFO:Entering email: '3q096mso@outlook.com'
+2024-07-15 16:45:32:INFO:Entering password: 'Test@123
+2024-07-15 16:45:33:INFO:Entering first name: 'Jack'
+2024-07-15 16:45:33:INFO:Entering last name: 'Jones'
+2024-07-15 16:45:33:INFO:Selecting gender: 'Male'
+2024-07-15 16:45:33:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:45:33:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:45:33:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:45:33:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:45:33:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:45:36:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:45:36:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:45:39:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:45:39:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:45:39:INFO:Clicking on 'Save' button
+2024-07-15 16:45:40:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:45:41:INFO:**************Test_01_Admin_Login*************** 
+2024-07-15 16:45:41:INFO:***********Verification of admin login page title*************** 
+2024-07-15 16:45:41:INFO:***********Title verification has started*************** 
+2024-07-15 16:45:43:INFO:***********Test valid admin login has  started*************** 
+2024-07-15 16:45:44:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:45:44:INFO:Entering password: 'admin'
+2024-07-15 16:45:44:INFO:Clicking on 'Login' button
+2024-07-15 16:45:47:INFO:***********Test invalid admin login has started*************** 
+2024-07-15 16:45:49:INFO:Entering username: 'adminrandom@yourstore.com'
+2024-07-15 16:45:49:INFO:Entering password: 'admin'
+2024-07-15 16:45:49:INFO:Clicking on 'Login' button
+2024-07-15 16:45:50:INFO:***********Test valid admin login data driven has  started*************** 
+2024-07-15 16:45:52:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:45:52:INFO:Entering password: 'admin'
+2024-07-15 16:45:52:INFO:Clicking on 'Login' button
+2024-07-15 16:45:59:INFO:test data is passed
+2024-07-15 16:45:59:INFO:Clicking on 'Logout' button
+2024-07-15 16:46:00:INFO:Entering username: 'admin123@yourstore.com'
+2024-07-15 16:46:00:INFO:Entering password: 'admin123'
+2024-07-15 16:46:01:INFO:Clicking on 'Login' button
+2024-07-15 16:46:06:INFO:test data is passed
+2024-07-15 16:46:06:INFO:Entering username: 'admin456@yourstore.com'
+2024-07-15 16:46:06:INFO:Entering password: 'admin456'
+2024-07-15 16:46:06:INFO:Clicking on 'Login' button
+2024-07-15 16:46:12:INFO:test data is passed
+2024-07-15 16:46:12:INFO:Test admin login data driven test is passed...
+2024-07-15 16:47:44:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:47:45:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:47:45:INFO:Entering password: 'admin'
+2024-07-15 16:47:45:INFO:Clicking on 'Login' button
+2024-07-15 16:47:48:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:47:48:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:47:48:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:47:48:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:47:50:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:47:50:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:47:50:INFO:Entering email: 's7w69oku@yahoo.com'
+2024-07-15 16:47:50:INFO:Entering password: 'Test@123
+2024-07-15 16:47:50:INFO:Entering first name: 'Jack'
+2024-07-15 16:47:51:INFO:Entering last name: 'Jones'
+2024-07-15 16:47:51:INFO:Selecting gender: 'Male'
+2024-07-15 16:47:51:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:47:51:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:47:51:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:47:51:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:47:51:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:47:54:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:47:54:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:47:57:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:47:57:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:47:57:INFO:Clicking on 'Save' button
+2024-07-15 16:47:58:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 16:54:58:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 16:54:59:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 16:54:59:INFO:Entering password: 'admin'
+2024-07-15 16:54:59:INFO:Clicking on 'Login' button
+2024-07-15 16:55:02:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:55:02:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:55:02:INFO:Clicking on 'Customers' menu link
+2024-07-15 16:55:02:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:55:03:INFO:Clicking on 'Customers' from menu options
+2024-07-15 16:55:04:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:55:04:INFO:Entering email: '6mu18ojk@example.com'
+2024-07-15 16:55:04:INFO:Entering password: 'Test@123
+2024-07-15 16:55:04:INFO:Entering first name: 'Jack'
+2024-07-15 16:55:05:INFO:Entering last name: 'Jones'
+2024-07-15 16:55:05:INFO:Selecting gender: 'Male'
+2024-07-15 16:55:05:INFO:Entering dob: '10/10/1992'
+2024-07-15 16:55:05:INFO:Entering company name: 'MyCompany'
+2024-07-15 16:55:05:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 16:55:05:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 16:55:05:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 16:55:08:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 16:55:08:INFO:Selecting customer role: 'Vendors'
+2024-07-15 16:55:11:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 16:55:11:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 16:55:11:INFO:Clicking on 'Save' button
+2024-07-15 16:55:12:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 18:58:20:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 18:58:22:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 18:58:22:INFO:Entering password: 'admin'
+2024-07-15 18:58:22:INFO:Clicking on 'Login' button
+2024-07-15 18:58:24:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 18:58:24:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 18:58:24:INFO:Clicking on 'Customers' menu link
+2024-07-15 18:58:25:INFO:Clicking on 'Customers' from menu options
+2024-07-15 18:58:26:INFO:Clicking on 'Customers' from menu options
+2024-07-15 18:58:27:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 18:58:27:INFO:Entering email: 'igtmcpma@yahoo.com'
+2024-07-15 18:58:27:INFO:Entering password: 'Test@123
+2024-07-15 18:58:27:INFO:Entering first name: 'Jack'
+2024-07-15 18:58:27:INFO:Entering last name: 'Jones'
+2024-07-15 18:58:27:INFO:Selecting gender: 'Male'
+2024-07-15 18:58:27:INFO:Entering dob: '10/10/1992'
+2024-07-15 18:58:27:INFO:Entering company name: 'MyCompany'
+2024-07-15 18:58:27:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 18:58:27:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 18:58:27:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 18:58:31:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 18:58:31:INFO:Selecting customer role: 'Vendors'
+2024-07-15 18:58:34:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 18:58:34:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 18:58:34:INFO:Clicking on 'Save' button
+2024-07-15 18:58:35:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 19:00:52:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 19:00:53:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 19:00:54:INFO:Entering password: 'admin'
+2024-07-15 19:00:54:INFO:Clicking on 'Login' button
+2024-07-15 19:00:57:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:00:57:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:00:57:INFO:Clicking on 'Customers' menu link
+2024-07-15 19:00:57:INFO:Clicking on 'Customers' from menu options
+2024-07-15 19:00:57:INFO:Clicking on 'Customers' from menu options
+2024-07-15 19:00:58:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:00:58:INFO:Entering email: 'nkuva6k3@example.com'
+2024-07-15 19:00:58:INFO:Entering password: 'Test@123
+2024-07-15 19:00:58:INFO:Entering first name: 'Jack'
+2024-07-15 19:00:58:INFO:Entering last name: 'Jones'
+2024-07-15 19:00:58:INFO:Selecting gender: 'Male'
+2024-07-15 19:00:58:INFO:Entering dob: '10/10/1992'
+2024-07-15 19:00:58:INFO:Entering company name: 'MyCompany'
+2024-07-15 19:00:58:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 19:00:58:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 19:00:58:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 19:01:01:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:01:01:INFO:Selecting customer role: 'Vendors'
+2024-07-15 19:01:05:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 19:01:05:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 19:01:05:INFO:Clicking on 'Save' button
+2024-07-15 19:01:06:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-15 19:01:35:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-15 19:01:37:INFO:Entering username: 'admin@yourstore.com'
+2024-07-15 19:01:37:INFO:Entering password: 'admin'
+2024-07-15 19:01:37:INFO:Clicking on 'Login' button
+2024-07-15 19:01:42:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:01:42:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:01:42:INFO:Clicking on 'Customers' menu link
+2024-07-15 19:01:42:INFO:Clicking on 'Customers' from menu options
+2024-07-15 19:01:42:INFO:Clicking on 'Customers' from menu options
+2024-07-15 19:01:43:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:01:43:INFO:Entering email: '841v69av@example.com'
+2024-07-15 19:01:43:INFO:Entering password: 'Test@123
+2024-07-15 19:01:43:INFO:Entering first name: 'Jack'
+2024-07-15 19:01:43:INFO:Entering last name: 'Jones'
+2024-07-15 19:01:43:INFO:Selecting gender: 'Male'
+2024-07-15 19:01:43:INFO:Entering dob: '10/10/1992'
+2024-07-15 19:01:44:INFO:Entering company name: 'MyCompany'
+2024-07-15 19:01:44:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-15 19:01:44:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-15 19:01:44:INFO:Selecting newsletter: 'Test store 2'
+2024-07-15 19:01:47:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-15 19:01:47:INFO:Selecting customer role: 'Vendors'
+2024-07-15 19:01:50:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-15 19:01:50:INFO:Entering admin comments: 'Test admin comment'
+2024-07-15 19:01:50:INFO:Clicking on 'Save' button
+2024-07-15 19:01:52:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-16 10:43:21:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-16 10:43:22:INFO:Entering username: 'admin@yourstore.com'
+2024-07-16 10:43:22:INFO:Entering password: 'admin'
+2024-07-16 10:43:22:INFO:Clicking on 'Login' button
+2024-07-16 10:43:26:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-16 10:43:26:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-16 10:43:26:INFO:Clicking on 'Customers' menu link
+2024-07-16 10:43:26:INFO:Clicking on 'Customers' from menu options
+2024-07-16 10:43:27:INFO:Clicking on 'Customers' from menu options
+2024-07-16 10:43:28:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-16 10:43:28:INFO:Entering email: 'aqo0thla@gmail.com'
+2024-07-16 10:43:28:INFO:Entering password: 'Test@123
+2024-07-16 10:43:28:INFO:Entering first name: 'Jack'
+2024-07-16 10:43:28:INFO:Entering last name: 'Jones'
+2024-07-16 10:43:28:INFO:Selecting gender: 'Male'
+2024-07-16 10:43:28:INFO:Entering dob: '10/10/1992'
+2024-07-16 10:43:28:INFO:Entering company name: 'MyCompany'
+2024-07-16 10:43:28:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-16 10:43:28:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-16 10:43:28:INFO:Selecting newsletter: 'Test store 2'
+2024-07-16 10:43:31:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-16 10:43:31:INFO:Selecting customer role: 'Vendors'
+2024-07-16 10:43:34:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-16 10:43:34:INFO:Entering admin comments: 'Test admin comment'
+2024-07-16 10:43:34:INFO:Clicking on 'Save' button
+2024-07-16 10:43:36:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~
+2024-07-16 14:37:25:INFO:**************☞➰ ☄︎ Test_03_Add_New_Customer has started ☄︎ ➰☜************
+2024-07-16 14:37:26:INFO:Entering username: 'admin@yourstore.com'
+2024-07-16 14:37:26:INFO:Entering password: 'admin'
+2024-07-16 14:37:26:INFO:Clicking on 'Login' button
+2024-07-16 14:37:30:INFO:~~~~~~~~~~~~~~~☞ Login Completed ☜~~~~~~~~~~~~~~~~
+2024-07-16 14:37:30:INFO:~~~~~~~~~~~~~~~☞ Starting add customer test ☜~~~~~~~~~~~~~~~~
+2024-07-16 14:37:30:INFO:Clicking on 'Customers' menu link
+2024-07-16 14:37:30:INFO:Clicking on 'Customers' from menu options
+2024-07-16 14:37:31:INFO:Clicking on 'Customers' from menu options
+2024-07-16 14:37:31:INFO:~~~~~~~~~~~~~~~☞ Providing customer info started ☜~~~~~~~~~~~~~~~~
+2024-07-16 14:37:31:INFO:Entering email: 'v3460g15@yahoo.com'
+2024-07-16 14:37:31:INFO:Entering password: 'Test@123
+2024-07-16 14:37:31:INFO:Entering first name: 'Jack'
+2024-07-16 14:37:32:INFO:Entering last name: 'Jones'
+2024-07-16 14:37:32:INFO:Selecting gender: 'Male'
+2024-07-16 14:37:32:INFO:Entering dob: '10/10/1992'
+2024-07-16 14:37:32:INFO:Entering company name: 'MyCompany'
+2024-07-16 14:37:32:INFO:Selecting tax exempt checkbox '☑️'
+2024-07-16 14:37:32:INFO:~~~~~~~~~~~~~☝︎Scroll-UP the page☝︎~~~~~~~~~~~~~~~~
+2024-07-16 14:37:32:INFO:Selecting newsletter: 'Test store 2'
+2024-07-16 14:37:35:INFO:~~~~~~~~~~~~~~~☞ Test store 2 selected ☜~~~~~~~~~~~~~~~~
+2024-07-16 14:37:35:INFO:Selecting customer role: 'Vendors'
+2024-07-16 14:37:38:INFO:Selecting manager of vendor: 'Vendor 1'
+2024-07-16 14:37:38:INFO:Entering admin comments: 'Test admin comment'
+2024-07-16 14:37:38:INFO:Clicking on 'Save' button
+2024-07-16 14:37:40:INFO:~~~~~~~~~~~~~~~❧ Test_03_Add_New_Customer test passed 😀❧~~~~~~~~~~~~~~~~

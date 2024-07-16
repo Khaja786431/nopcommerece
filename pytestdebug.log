@@ -1,0 +1,1496 @@
+versions pytest-8.2.2, python-3.9.6.final.0
+invocation_dir=/Users/khajavali.dudekula/PycharmProjects/nopcommerce
+cwd=/Users/khajavali.dudekula/PycharmProjects/nopcommerce
+args=('--debug', '-s', '-v', '-m', 'regression', '--browser', 'edge', './test_cases/')
+
+  pytest_cmdline_main [hook]
+      config: <_pytest.config.Config object at 0x104d19fa0>
+    pytest_plugin_registered [hook]
+        plugin: <Session  exitstatus='<UNSET>' testsfailed=0 testscollected=0>
+        plugin_name: session
+        manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+    finish pytest_plugin_registered --> [] [hook]
+    pytest_configure [hook]
+        config: <_pytest.config.Config object at 0x104d19fa0>
+    early skip of rewriting module: plistlib [assertion]
+    early skip of rewriting module: xml.parsers [assertion]
+    early skip of rewriting module: xml.parsers.expat [assertion]
+      pytest_metadata [hook]
+          metadata: {'Python': '3.9.6', 'Platform': 'macOS-14.5-arm64-arm-64bit', 'Packages': {'pytest': '8.2.2', 'pluggy': '1.5.0'}, 'Plugins': {'html': '4.1.1', 'metadata': '3.1.1', 'xdist': '3.6.1'}}
+          config: <_pytest.config.Config object at 0x104d19fa0>
+      finish pytest_metadata --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x106431b80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x106431ee0>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+    early skip of rewriting module: faulthandler [assertion]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+    early skip of rewriting module: pdb [assertion]
+    early skip of rewriting module: cmd [assertion]
+    early skip of rewriting module: code [assertion]
+    early skip of rewriting module: codeop [assertion]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+          plugin_name: 4390250192
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.Config object at 0x104d19fa0>
+          plugin_name: pytestconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.mark' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/mark/__init__.py'>
+          plugin_name: mark
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.main' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/main.py'>
+          plugin_name: main
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.runner' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/runner.py'>
+          plugin_name: runner
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.fixtures' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/fixtures.py'>
+          plugin_name: fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.helpconfig' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/helpconfig.py'>
+          plugin_name: helpconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/python.py'>
+          plugin_name: python
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminal' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/terminal.py'>
+          plugin_name: terminal
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.debugging' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/debugging.py'>
+          plugin_name: debugging
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unittest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/unittest.py'>
+          plugin_name: unittest
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.capture' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/capture.py'>
+          plugin_name: capture
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.skipping' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/skipping.py'>
+          plugin_name: skipping
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.legacypath' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/legacypath.py'>
+          plugin_name: legacypath
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.tmpdir' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/tmpdir.py'>
+          plugin_name: tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.monkeypatch' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/monkeypatch.py'>
+          plugin_name: monkeypatch
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.recwarn' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/recwarn.py'>
+          plugin_name: recwarn
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.pastebin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/pastebin.py'>
+          plugin_name: pastebin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.assertion' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/assertion/__init__.py'>
+          plugin_name: assertion
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.junitxml' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/junitxml.py'>
+          plugin_name: junitxml
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.doctest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/doctest.py'>
+          plugin_name: doctest
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.cacheprovider' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/cacheprovider.py'>
+          plugin_name: cacheprovider
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.freeze_support' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/freeze_support.py'>
+          plugin_name: freeze_support
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setuponly' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/setuponly.py'>
+          plugin_name: setuponly
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setupplan' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/setupplan.py'>
+          plugin_name: setupplan
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.stepwise' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/stepwise.py'>
+          plugin_name: stepwise
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.warnings' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/warnings.py'>
+          plugin_name: warnings
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.logging' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/logging.py'>
+          plugin_name: logging
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.reports' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/reports.py'>
+          plugin_name: reports
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python_path' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/python_path.py'>
+          plugin_name: python_path
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unraisableexception' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/unraisableexception.py'>
+          plugin_name: unraisableexception
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.threadexception' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/threadexception.py'>
+          plugin_name: threadexception
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.faulthandler' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/faulthandler.py'>
+          plugin_name: faulthandler
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_html.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/plugin.py'>
+          plugin_name: html
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_html.fixtures' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/fixtures.py'>
+          plugin_name: html_fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_metadata.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_metadata/plugin.py'>
+          plugin_name: metadata
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/plugin.py'>
+          plugin_name: xdist
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.looponfail' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/looponfail.py'>
+          plugin_name: xdist.looponfail
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <CaptureManager _method='no' _global_capturing=<MultiCapture out=None err=None in_=None _state='suspended' _in_suspended=False> _capture_fixture=None>
+          plugin_name: capturemanager
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'test_cases.conftest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py'>
+          plugin_name: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          plugin_name: session
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x106431b80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x106431ee0>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_warning_recorded [hook]
+          warning_message: {message : NotOpenSSLWarning("urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020"), category : 'NotOpenSSLWarning', filename : '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/urllib3/__init__.py', lineno : 35, line : None}
+          nodeid: 
+          when: config
+          location: None
+      finish pytest_warning_recorded --> [] [hook]
+      pytest_warning_recorded [hook]
+          warning_message: {message : PytestDeprecationWarning('The hookimpl pytest_metadata uses old-style configuration options (marks or attributes).\nPlease use the pytest.hookimpl(optionalhook=True) decorator instead\n to configure the hooks.\n See https://docs.pytest.org/en/latest/deprecations.html#configuring-hook-specs-impls-using-markers'), category : 'PytestDeprecationWarning', filename : '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py', lineno : 43, line : None}
+          nodeid: 
+          when: config
+          location: None
+      finish pytest_warning_recorded --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.terminal.TerminalReporter object at 0x10643c640>
+          plugin_name: terminalreporter
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.logging.LoggingPlugin object at 0x1064606a0>
+          plugin_name: logging-plugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+    finish pytest_configure --> [] [hook]
+    pytest_sessionstart [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+          plugin_name: 4390250192
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.config.Config object at 0x104d19fa0>
+          plugin_name: pytestconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.mark' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/mark/__init__.py'>
+          plugin_name: mark
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.main' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/main.py'>
+          plugin_name: main
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.runner' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/runner.py'>
+          plugin_name: runner
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.fixtures' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/fixtures.py'>
+          plugin_name: fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.helpconfig' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/helpconfig.py'>
+          plugin_name: helpconfig
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/python.py'>
+          plugin_name: python
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.terminal' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/terminal.py'>
+          plugin_name: terminal
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.debugging' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/debugging.py'>
+          plugin_name: debugging
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unittest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/unittest.py'>
+          plugin_name: unittest
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.capture' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/capture.py'>
+          plugin_name: capture
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.skipping' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/skipping.py'>
+          plugin_name: skipping
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.legacypath' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/legacypath.py'>
+          plugin_name: legacypath
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.tmpdir' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/tmpdir.py'>
+          plugin_name: tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.monkeypatch' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/monkeypatch.py'>
+          plugin_name: monkeypatch
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.recwarn' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/recwarn.py'>
+          plugin_name: recwarn
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.pastebin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/pastebin.py'>
+          plugin_name: pastebin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.assertion' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/assertion/__init__.py'>
+          plugin_name: assertion
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.junitxml' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/junitxml.py'>
+          plugin_name: junitxml
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.doctest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/doctest.py'>
+          plugin_name: doctest
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.cacheprovider' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/cacheprovider.py'>
+          plugin_name: cacheprovider
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.freeze_support' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/freeze_support.py'>
+          plugin_name: freeze_support
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setuponly' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/setuponly.py'>
+          plugin_name: setuponly
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.setupplan' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/setupplan.py'>
+          plugin_name: setupplan
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.stepwise' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/stepwise.py'>
+          plugin_name: stepwise
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.warnings' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/warnings.py'>
+          plugin_name: warnings
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.logging' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/logging.py'>
+          plugin_name: logging
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.reports' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/reports.py'>
+          plugin_name: reports
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.python_path' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/python_path.py'>
+          plugin_name: python_path
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.unraisableexception' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/unraisableexception.py'>
+          plugin_name: unraisableexception
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.threadexception' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/threadexception.py'>
+          plugin_name: threadexception
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module '_pytest.faulthandler' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/faulthandler.py'>
+          plugin_name: faulthandler
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_html.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/plugin.py'>
+          plugin_name: html
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_html.fixtures' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/fixtures.py'>
+          plugin_name: html_fixtures
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'pytest_metadata.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_metadata/plugin.py'>
+          plugin_name: metadata
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.plugin' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/plugin.py'>
+          plugin_name: xdist
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'xdist.looponfail' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/looponfail.py'>
+          plugin_name: xdist.looponfail
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <CaptureManager _method='no' _global_capturing=<MultiCapture out=None err=None in_=None _state='suspended' _in_suspended=False> _capture_fixture=None>
+          plugin_name: capturemanager
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <module 'test_cases.conftest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py'>
+          plugin_name: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          plugin_name: session
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.LFPlugin object at 0x106431b80>
+          plugin_name: lfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.cacheprovider.NFPlugin object at 0x106431ee0>
+          plugin_name: nfplugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+          plugin_name: legacypath-tmpdir
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.terminal.TerminalReporter object at 0x10643c640>
+          plugin_name: terminalreporter
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.logging.LoggingPlugin object at 0x1064606a0>
+          plugin_name: logging-plugin
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_plugin_registered [hook]
+          plugin: <_pytest.fixtures.FixtureManager object at 0x106427a90>
+          plugin_name: funcmanage
+          manager: <_pytest.config.PytestPluginManager object at 0x105ade6d0>
+      finish pytest_plugin_registered --> [] [hook]
+      pytest_report_header [hook]
+          config: <_pytest.config.Config object at 0x104d19fa0>
+          start_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce
+          startdir: /Users/khajavali.dudekula/PycharmProjects/nopcommerce
+      finish pytest_report_header --> [['rootdir: /Users/khajavali.dudekula/PycharmProjects/nopcommerce', 'configfile: pytest.ini', 'plugins: html-4.1.1, metadata-3.1.1, xdist-3.6.1'], "metadata: {'Python': '3.9.6', 'Platform': 'macOS-14.5-arm64-arm-64bit', 'Packages': {'pytest': '8.2.2', 'pluggy': '1.5.0'}, 'Project Name': 'Ecommerce Project', 'Test Website Name': 'nopcommerce', 'Test Website Link': 'https://admin-demo.nopcommerce.com/login', 'Test Module Name': 'Admin Login Tests', 'Tester Name': 'KHAJAVALI'}", 'cachedir: .pytest_cache', ['using: pytest-8.2.2', 'setuptools registered plugins:', '  pytest-html-4.1.1 at /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/plugin.py', '  pytest-html-4.1.1 at /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_html/fixtures.py', '  pytest-metadata-3.1.1 at /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest_metadata/plugin.py', '  pytest-xdist-3.6.1 at /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/plugin.py', '  pytest-xdist-3.6.1 at /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/xdist/looponfail.py']] [hook]
+    finish pytest_sessionstart --> [] [hook]
+    pytest_collection [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+    perform_collect <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0> ['./test_cases/'] [collection]
+        pytest_collectstart [hook]
+            collector: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        finish pytest_collectstart --> [] [hook]
+        pytest_make_collect_report [hook]
+            collector: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        processing argument CollectionArgument(path=PosixPath('/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases'), parts=[], module_name=None) [collection]
+            pytest_collect_directory [hook]
+                path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce
+                parent: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+            finish pytest_collect_directory --> <Dir nopcommerce> [hook]
+            pytest_collectstart [hook]
+                collector: <Dir nopcommerce>
+            finish pytest_collectstart --> [] [hook]
+            pytest_make_collect_report [hook]
+                collector: <Dir nopcommerce>
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.DS_Store
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.DS_Store
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.DS_Store
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.DS_Store
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.\screenshots\test_valid_admin_login.png
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.\screenshots\test_valid_admin_login.png
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.\screenshots\test_valid_admin_login.png
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.\screenshots\test_valid_admin_login.png
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.git
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.git
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.idea
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.idea
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.pytest_cache
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.pytest_cache
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv
+              finish pytest_ignore_collect --> True [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/Test_Requirement.xlsx
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/Test_Requirement.xlsx
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/Test_Requirement.xlsx
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/Test_Requirement.xlsx
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/base_pages
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/base_pages
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/base_pages
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Package base_pages> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/configurations
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/configurations
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/configurations
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir configurations> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/logs
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/logs
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/logs
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir logs> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/main.py
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/main.py
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/main.py
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/main.py
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.cfg
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.cfg
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.cfg
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.cfg
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.ini
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.ini
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.ini
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytest.ini
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytestdebug.log
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytestdebug.log
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytestdebug.log
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/pytestdebug.log
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reporter
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reporter
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reporter
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir reporter> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reports
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reports
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/reports
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir reports> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/run.bat
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/run.bat
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/run.bat
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/run.bat
+              finish pytest_collect_file --> [] [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/screenshots
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/screenshots
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/screenshots
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir screenshots> [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Package test_cases> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_data
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_data
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_data
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Dir test_data> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/utilities
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/utilities
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_directory [hook]
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/utilities
+                  parent: <Dir nopcommerce>
+              finish pytest_collect_directory --> <Package utilities> [hook]
+              pytest_ignore_collect [hook]
+                  config: <_pytest.config.Config object at 0x104d19fa0>
+                  collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/~$Test_Requirement.xlsx
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/~$Test_Requirement.xlsx
+              finish pytest_ignore_collect --> None [hook]
+              pytest_collect_file [hook]
+                  parent: <Dir nopcommerce>
+                  file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/~$Test_Requirement.xlsx
+                  path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/~$Test_Requirement.xlsx
+              finish pytest_collect_file --> [] [hook]
+            finish pytest_make_collect_report --> <CollectReport '.' lenresult=9 outcome='passed'> [hook]
+        finish pytest_make_collect_report --> <CollectReport '' lenresult=1 outcome='passed'> [hook]
+        pytest_collectreport [hook]
+            report: <CollectReport '' lenresult=1 outcome='passed'>
+        finish pytest_collectreport --> [] [hook]
+    genitems <Package test_cases> [collection]
+      pytest_collectstart [hook]
+          collector: <Package test_cases>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Package test_cases>
+        pytest_ignore_collect [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/__init__.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/__init__.py
+        finish pytest_ignore_collect --> None [hook]
+        pytest_collect_file [hook]
+            parent: <Package test_cases>
+            file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/__init__.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/__init__.py
+        finish pytest_collect_file --> [] [hook]
+        pytest_ignore_collect [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+        finish pytest_ignore_collect --> None [hook]
+        pytest_collect_file [hook]
+            parent: <Package test_cases>
+            file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/conftest.py
+        finish pytest_collect_file --> [] [hook]
+        pytest_ignore_collect [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+        finish pytest_ignore_collect --> None [hook]
+        pytest_collect_file [hook]
+            parent: <Package test_cases>
+            file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+          pytest_pycollect_makemodule [hook]
+              parent: <Package test_cases>
+              module_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+              path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py
+          finish pytest_pycollect_makemodule --> <Module test_add_new_user.py> [hook]
+        finish pytest_collect_file --> [<Module test_add_new_user.py>] [hook]
+        pytest_ignore_collect [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+        finish pytest_ignore_collect --> None [hook]
+        pytest_collect_file [hook]
+            parent: <Package test_cases>
+            file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+          pytest_pycollect_makemodule [hook]
+              parent: <Package test_cases>
+              module_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+              path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py
+          finish pytest_pycollect_makemodule --> <Module test_admin_login.py> [hook]
+        finish pytest_collect_file --> [<Module test_admin_login.py>] [hook]
+        pytest_ignore_collect [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            collection_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+        finish pytest_ignore_collect --> None [hook]
+        pytest_collect_file [hook]
+            parent: <Package test_cases>
+            file_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+            path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+          pytest_pycollect_makemodule [hook]
+              parent: <Package test_cases>
+              module_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+              path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py
+          finish pytest_pycollect_makemodule --> <Module test_admin_login_data_driven.py> [hook]
+        finish pytest_collect_file --> [<Module test_admin_login_data_driven.py>] [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases' lenresult=3 outcome='passed'> [hook]
+    genitems <Module test_add_new_user.py> [collection]
+      pytest_collectstart [hook]
+          collector: <Module test_add_new_user.py>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Module test_add_new_user.py>
+      find_module called for: test_cases.test_add_new_user [assertion]
+      matched test file '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py' [assertion]
+      found cached rewritten pyc for /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_add_new_user.py [assertion]
+      early skip of rewriting module: utilities [assertion]
+      early skip of rewriting module: utilities.read_properties [assertion]
+      early skip of rewriting module: utilities.custom_logger [assertion]
+      early skip of rewriting module: base_pages [assertion]
+      early skip of rewriting module: base_pages.Login_Admin_Page [assertion]
+      early skip of rewriting module: base_pages.Add_Customer_Page [assertion]
+      early skip of rewriting module: selenium.webdriver.support.select [assertion]
+      early skip of rewriting module: selenium.webdriver.support.wait [assertion]
+      early skip of rewriting module: selenium.webdriver.support.expected_conditions [assertion]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: @py_builtins
+            obj: <module 'builtins' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: @pytest_ar
+            obj: <module '_pytest.assertion.rewrite' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/assertion/rewrite.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: random
+            obj: <module 'random' from '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/random.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: string
+            obj: <module 'string' from '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/string.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: time
+            obj: <module 'time' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: pytest
+            obj: <module 'pytest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: webdriver
+            obj: <module 'selenium.webdriver' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/selenium/webdriver/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: By
+            obj: <class 'selenium.webdriver.common.by.By'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: Read_Config
+            obj: <class 'utilities.read_properties.Read_Config'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: Log_Maker
+            obj: <class 'utilities.custom_logger.Log_Maker'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: Login_Admin_Page
+            obj: <class 'base_pages.Login_Admin_Page.Login_Admin_Page'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: Add_Customer_Page
+            obj: <class 'base_pages.Add_Customer_Page.Add_Customer_Page'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: Test_03_Add_New_Customer
+            obj: <class 'test_cases.test_add_new_user.Test_03_Add_New_Customer'>
+        finish pytest_pycollect_makeitem --> <Class Test_03_Add_New_Customer> [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_add_new_user.py>
+            name: generate_random_email
+            obj: <function generate_random_email at 0x106481670>
+        finish pytest_pycollect_makeitem --> None [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_add_new_user.py' lenresult=1 outcome='passed'> [hook]
+    genitems <Class Test_03_Add_New_Customer> [collection]
+      pytest_collectstart [hook]
+          collector: <Class Test_03_Add_New_Customer>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Class Test_03_Add_New_Customer>
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_03_Add_New_Customer>
+            name: admin_page_url
+            obj: https://admin-demo.nopcommerce.com/login
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_03_Add_New_Customer>
+            name: username
+            obj: admin@yourstore.com
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_03_Add_New_Customer>
+            name: password
+            obj: admin
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_03_Add_New_Customer>
+            name: logger
+            obj: <RootLogger root (INFO)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_03_Add_New_Customer>
+            name: test_add_new_customer
+            obj: <function Test_03_Add_New_Customer.test_add_new_customer at 0x1064b2820>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x1064cb8e0>
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_add_new_customer>] [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer' lenresult=1 outcome='passed'> [hook]
+    genitems <Function test_add_new_customer> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_add_new_customer>
+      finish pytest_itemcollected --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_add_new_user.py' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+    genitems <Module test_admin_login.py> [collection]
+      pytest_collectstart [hook]
+          collector: <Module test_admin_login.py>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Module test_admin_login.py>
+      find_module called for: test_cases.test_admin_login [assertion]
+      matched test file '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py' [assertion]
+      found cached rewritten pyc for /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login.py [assertion]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: @py_builtins
+            obj: <module 'builtins' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: @pytest_ar
+            obj: <module '_pytest.assertion.rewrite' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/assertion/rewrite.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: pytest
+            obj: <module 'pytest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: webdriver
+            obj: <module 'selenium.webdriver' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/selenium/webdriver/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: By
+            obj: <class 'selenium.webdriver.common.by.By'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: Login_Admin_Page
+            obj: <class 'base_pages.Login_Admin_Page.Login_Admin_Page'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: Read_Config
+            obj: <class 'utilities.read_properties.Read_Config'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: Log_Maker
+            obj: <class 'utilities.custom_logger.Log_Maker'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login.py>
+            name: Test_01_Admin_Login
+            obj: <class 'test_cases.test_admin_login.Test_01_Admin_Login'>
+        finish pytest_pycollect_makeitem --> <Class Test_01_Admin_Login> [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_admin_login.py' lenresult=1 outcome='passed'> [hook]
+    genitems <Class Test_01_Admin_Login> [collection]
+      pytest_collectstart [hook]
+          collector: <Class Test_01_Admin_Login>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Class Test_01_Admin_Login>
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: admin_page_url
+            obj: https://admin-demo.nopcommerce.com/login
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: username
+            obj: admin@yourstore.com
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: password
+            obj: admin
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: invalid_username
+            obj: adminrandom@yourstore.com
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: logger
+            obj: <RootLogger root (INFO)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: test_title_verification
+            obj: <function Test_01_Admin_Login.test_title_verification at 0x1064d2820>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x1064cbc70>
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_title_verification>] [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: test_valid_admin_login
+            obj: <function Test_01_Admin_Login.test_valid_admin_login at 0x1064d28b0>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x1064cbca0>
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_valid_admin_login>] [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_01_Admin_Login>
+            name: test_invalid_admin_login
+            obj: <function Test_01_Admin_Login.test_invalid_admin_login at 0x1064d2940>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x1064cbc40>
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_invalid_admin_login>] [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_admin_login.py::Test_01_Admin_Login' lenresult=3 outcome='passed'> [hook]
+    genitems <Function test_title_verification> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_title_verification>
+      finish pytest_itemcollected --> [] [hook]
+    genitems <Function test_valid_admin_login> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_valid_admin_login>
+      finish pytest_itemcollected --> [] [hook]
+    genitems <Function test_invalid_admin_login> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_invalid_admin_login>
+      finish pytest_itemcollected --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_admin_login.py::Test_01_Admin_Login' lenresult=3 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_admin_login.py' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+    genitems <Module test_admin_login_data_driven.py> [collection]
+      pytest_collectstart [hook]
+          collector: <Module test_admin_login_data_driven.py>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Module test_admin_login_data_driven.py>
+      find_module called for: test_cases.test_admin_login_data_driven [assertion]
+      matched test file '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py' [assertion]
+      found cached rewritten pyc for /Users/khajavali.dudekula/PycharmProjects/nopcommerce/test_cases/test_admin_login_data_driven.py [assertion]
+      early skip of rewriting module: utilities.excel_utils [assertion]
+      early skip of rewriting module: openpyxl [assertion]
+      early skip of rewriting module: openpyxl.compat [assertion]
+      early skip of rewriting module: openpyxl.compat.numbers [assertion]
+      early skip of rewriting module: numpy [assertion]
+      early skip of rewriting module: openpyxl.compat.strings [assertion]
+      early skip of rewriting module: openpyxl.xml [assertion]
+      early skip of rewriting module: lxml [assertion]
+      early skip of rewriting module: defusedxml [assertion]
+      early skip of rewriting module: openpyxl.workbook [assertion]
+      early skip of rewriting module: openpyxl.workbook.workbook [assertion]
+      early skip of rewriting module: openpyxl.worksheet [assertion]
+      early skip of rewriting module: openpyxl.worksheet.worksheet [assertion]
+      early skip of rewriting module: openpyxl.utils [assertion]
+      early skip of rewriting module: openpyxl.utils.cell [assertion]
+      early skip of rewriting module: openpyxl.utils.exceptions [assertion]
+      early skip of rewriting module: openpyxl.utils.formulas [assertion]
+      early skip of rewriting module: openpyxl.formula [assertion]
+      early skip of rewriting module: openpyxl.formula.tokenizer [assertion]
+      early skip of rewriting module: openpyxl.cell [assertion]
+      early skip of rewriting module: openpyxl.cell.cell [assertion]
+      early skip of rewriting module: openpyxl.styles [assertion]
+      early skip of rewriting module: openpyxl.styles.alignment [assertion]
+      early skip of rewriting module: openpyxl.descriptors [assertion]
+      early skip of rewriting module: openpyxl.descriptors.base [assertion]
+      early skip of rewriting module: openpyxl.utils.datetime [assertion]
+      early skip of rewriting module: openpyxl.descriptors.namespace [assertion]
+      early skip of rewriting module: openpyxl.descriptors.sequence [assertion]
+      early skip of rewriting module: openpyxl.xml.functions [assertion]
+      early skip of rewriting module: et_xmlfile [assertion]
+      early skip of rewriting module: et_xmlfile.xmlfile [assertion]
+      early skip of rewriting module: openpyxl.xml.constants [assertion]
+      early skip of rewriting module: openpyxl.utils.indexed_list [assertion]
+      early skip of rewriting module: openpyxl.descriptors.serialisable [assertion]
+      early skip of rewriting module: openpyxl.styles.borders [assertion]
+      early skip of rewriting module: openpyxl.styles.colors [assertion]
+      early skip of rewriting module: openpyxl.styles.fills [assertion]
+      early skip of rewriting module: openpyxl.styles.fonts [assertion]
+      early skip of rewriting module: openpyxl.descriptors.nested [assertion]
+      early skip of rewriting module: openpyxl.styles.numbers [assertion]
+      early skip of rewriting module: openpyxl.styles.protection [assertion]
+      early skip of rewriting module: openpyxl.styles.named_styles [assertion]
+      early skip of rewriting module: openpyxl.descriptors.excel [assertion]
+      early skip of rewriting module: openpyxl.styles.cell_style [assertion]
+      early skip of rewriting module: openpyxl.styles.styleable [assertion]
+      early skip of rewriting module: openpyxl.styles.proxy [assertion]
+      early skip of rewriting module: openpyxl.styles.builtins [assertion]
+      early skip of rewriting module: openpyxl.worksheet.hyperlink [assertion]
+      early skip of rewriting module: openpyxl.worksheet.formula [assertion]
+      early skip of rewriting module: openpyxl.cell.rich_text [assertion]
+      early skip of rewriting module: openpyxl.cell.text [assertion]
+      early skip of rewriting module: openpyxl.cell.read_only [assertion]
+      early skip of rewriting module: openpyxl.formatting [assertion]
+      early skip of rewriting module: openpyxl.formatting.rule [assertion]
+      early skip of rewriting module: openpyxl.styles.differential [assertion]
+      early skip of rewriting module: openpyxl.formatting.formatting [assertion]
+      early skip of rewriting module: openpyxl.worksheet.cell_range [assertion]
+      early skip of rewriting module: openpyxl.packaging [assertion]
+      early skip of rewriting module: openpyxl.packaging.relationship [assertion]
+      early skip of rewriting module: openpyxl.descriptors.container [assertion]
+      early skip of rewriting module: openpyxl.workbook.child [assertion]
+      early skip of rewriting module: openpyxl.worksheet.header_footer [assertion]
+      early skip of rewriting module: openpyxl.utils.escape [assertion]
+      early skip of rewriting module: openpyxl.workbook.defined_name [assertion]
+      early skip of rewriting module: openpyxl.formula.translate [assertion]
+      early skip of rewriting module: openpyxl.worksheet.datavalidation [assertion]
+      early skip of rewriting module: openpyxl.worksheet.page [assertion]
+      early skip of rewriting module: openpyxl.worksheet.dimensions [assertion]
+      early skip of rewriting module: openpyxl.utils.units [assertion]
+      early skip of rewriting module: openpyxl.utils.bound_dictionary [assertion]
+      early skip of rewriting module: openpyxl.worksheet.protection [assertion]
+      early skip of rewriting module: openpyxl.utils.protection [assertion]
+      early skip of rewriting module: openpyxl.worksheet.filters [assertion]
+      early skip of rewriting module: openpyxl.worksheet.views [assertion]
+      early skip of rewriting module: openpyxl.worksheet.merge [assertion]
+      early skip of rewriting module: openpyxl.worksheet.properties [assertion]
+      early skip of rewriting module: openpyxl.worksheet.pagebreak [assertion]
+      early skip of rewriting module: openpyxl.worksheet.scenario [assertion]
+      early skip of rewriting module: openpyxl.worksheet.table [assertion]
+      early skip of rewriting module: openpyxl.worksheet.related [assertion]
+      early skip of rewriting module: openpyxl.worksheet.print_settings [assertion]
+      early skip of rewriting module: openpyxl.worksheet._read_only [assertion]
+      early skip of rewriting module: openpyxl.worksheet._reader [assertion]
+      early skip of rewriting module: openpyxl.worksheet._write_only [assertion]
+      early skip of rewriting module: openpyxl.worksheet._writer [assertion]
+      early skip of rewriting module: openpyxl.comments [assertion]
+      early skip of rewriting module: openpyxl.comments.comments [assertion]
+      early skip of rewriting module: openpyxl.comments.comment_sheet [assertion]
+      early skip of rewriting module: openpyxl.comments.author [assertion]
+      early skip of rewriting module: openpyxl.comments.shape_writer [assertion]
+      early skip of rewriting module: openpyxl.cell._writer [assertion]
+      early skip of rewriting module: openpyxl.worksheet.copier [assertion]
+      early skip of rewriting module: openpyxl.writer [assertion]
+      early skip of rewriting module: openpyxl.writer.excel [assertion]
+      early skip of rewriting module: openpyxl.drawing [assertion]
+      early skip of rewriting module: openpyxl.drawing.drawing [assertion]
+      early skip of rewriting module: openpyxl.drawing.spreadsheet_drawing [assertion]
+      early skip of rewriting module: openpyxl.drawing.image [assertion]
+      early skip of rewriting module: PIL [assertion]
+      early skip of rewriting module: openpyxl.chart [assertion]
+      early skip of rewriting module: openpyxl.chart.area_chart [assertion]
+      early skip of rewriting module: openpyxl.chart._chart [assertion]
+      early skip of rewriting module: openpyxl.chart._3d [assertion]
+      early skip of rewriting module: openpyxl.chart.marker [assertion]
+      early skip of rewriting module: openpyxl.chart.layout [assertion]
+      early skip of rewriting module: openpyxl.chart.picture [assertion]
+      early skip of rewriting module: openpyxl.chart.shapes [assertion]
+      early skip of rewriting module: openpyxl.drawing.colors [assertion]
+      early skip of rewriting module: openpyxl.drawing.fill [assertion]
+      early skip of rewriting module: openpyxl.drawing.effect [assertion]
+      early skip of rewriting module: openpyxl.drawing.line [assertion]
+      early skip of rewriting module: openpyxl.drawing.geometry [assertion]
+      early skip of rewriting module: openpyxl.chart.text [assertion]
+      early skip of rewriting module: openpyxl.drawing.text [assertion]
+      early skip of rewriting module: openpyxl.chart.data_source [assertion]
+      early skip of rewriting module: openpyxl.chart.error_bar [assertion]
+      early skip of rewriting module: openpyxl.chart.legend [assertion]
+      early skip of rewriting module: openpyxl.chart.reference [assertion]
+      early skip of rewriting module: openpyxl.chart.series_factory [assertion]
+      early skip of rewriting module: openpyxl.chart.series [assertion]
+      early skip of rewriting module: openpyxl.chart.label [assertion]
+      early skip of rewriting module: openpyxl.chart.trendline [assertion]
+      early skip of rewriting module: openpyxl.chart.title [assertion]
+      early skip of rewriting module: openpyxl.chart.descriptors [assertion]
+      early skip of rewriting module: openpyxl.chart.axis [assertion]
+      early skip of rewriting module: openpyxl.chart.bar_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.bubble_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.line_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.updown_bars [assertion]
+      early skip of rewriting module: openpyxl.chart.pie_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.radar_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.scatter_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.stock_chart [assertion]
+      early skip of rewriting module: openpyxl.chart.surface_chart [assertion]
+      early skip of rewriting module: openpyxl.drawing.xdr [assertion]
+      early skip of rewriting module: openpyxl.drawing.connector [assertion]
+      early skip of rewriting module: openpyxl.drawing.properties [assertion]
+      early skip of rewriting module: openpyxl.drawing.graphic [assertion]
+      early skip of rewriting module: openpyxl.drawing.picture [assertion]
+      early skip of rewriting module: openpyxl.drawing.relation [assertion]
+      early skip of rewriting module: openpyxl.packaging.manifest [assertion]
+      early skip of rewriting module: openpyxl.styles.stylesheet [assertion]
+      early skip of rewriting module: openpyxl.styles.table [assertion]
+      early skip of rewriting module: openpyxl.workbook._writer [assertion]
+      early skip of rewriting module: openpyxl.workbook.external_reference [assertion]
+      early skip of rewriting module: openpyxl.packaging.workbook [assertion]
+      early skip of rewriting module: openpyxl.workbook.function_group [assertion]
+      early skip of rewriting module: openpyxl.workbook.properties [assertion]
+      early skip of rewriting module: openpyxl.workbook.protection [assertion]
+      early skip of rewriting module: openpyxl.workbook.smart_tags [assertion]
+      early skip of rewriting module: openpyxl.workbook.views [assertion]
+      early skip of rewriting module: openpyxl.workbook.web [assertion]
+      early skip of rewriting module: openpyxl.writer.theme [assertion]
+      early skip of rewriting module: openpyxl.chartsheet [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.chartsheet [assertion]
+      early skip of rewriting module: openpyxl.worksheet.drawing [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.relation [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.properties [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.protection [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.views [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.custom [assertion]
+      early skip of rewriting module: openpyxl.chartsheet.publish [assertion]
+      early skip of rewriting module: openpyxl.packaging.core [assertion]
+      early skip of rewriting module: openpyxl.packaging.custom [assertion]
+      early skip of rewriting module: openpyxl.reader [assertion]
+      early skip of rewriting module: openpyxl.reader.excel [assertion]
+      early skip of rewriting module: openpyxl.pivot [assertion]
+      early skip of rewriting module: openpyxl.pivot.table [assertion]
+      early skip of rewriting module: openpyxl.pivot.fields [assertion]
+      early skip of rewriting module: openpyxl.tests [assertion]
+      early skip of rewriting module: openpyxl.reader.strings [assertion]
+      early skip of rewriting module: openpyxl.reader.workbook [assertion]
+      early skip of rewriting module: openpyxl.workbook.external_link [assertion]
+      early skip of rewriting module: openpyxl.workbook.external_link.external [assertion]
+      early skip of rewriting module: openpyxl.pivot.cache [assertion]
+      early skip of rewriting module: openpyxl.pivot.record [assertion]
+      early skip of rewriting module: openpyxl.reader.drawings [assertion]
+      early skip of rewriting module: openpyxl.chart.chartspace [assertion]
+      early skip of rewriting module: openpyxl.chart.plotarea [assertion]
+      early skip of rewriting module: openpyxl.chart.pivot [assertion]
+      early skip of rewriting module: openpyxl.chart.print_settings [assertion]
+      early skip of rewriting module: openpyxl.chart.reader [assertion]
+      early skip of rewriting module: openpyxl._constants [assertion]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: @py_builtins
+            obj: <module 'builtins' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: @pytest_ar
+            obj: <module '_pytest.assertion.rewrite' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/_pytest/assertion/rewrite.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: time
+            obj: <module 'time' (built-in)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: pytest
+            obj: <module 'pytest' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/pytest/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: webdriver
+            obj: <module 'selenium.webdriver' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/.venv/lib/python3.9/site-packages/selenium/webdriver/__init__.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: By
+            obj: <class 'selenium.webdriver.common.by.By'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: Login_Admin_Page
+            obj: <class 'base_pages.Login_Admin_Page.Login_Admin_Page'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: Read_Config
+            obj: <class 'utilities.read_properties.Read_Config'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: Log_Maker
+            obj: <class 'utilities.custom_logger.Log_Maker'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: excel_utils
+            obj: <module 'utilities.excel_utils' from '/Users/khajavali.dudekula/PycharmProjects/nopcommerce/utilities/excel_utils.py'>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Module test_admin_login_data_driven.py>
+            name: Test_02_Admin_Login_Data_Driven
+            obj: <class 'test_cases.test_admin_login_data_driven.Test_02_Admin_Login_Data_Driven'>
+        finish pytest_pycollect_makeitem --> <Class Test_02_Admin_Login_Data_Driven> [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_admin_login_data_driven.py' lenresult=1 outcome='passed'> [hook]
+    genitems <Class Test_02_Admin_Login_Data_Driven> [collection]
+      pytest_collectstart [hook]
+          collector: <Class Test_02_Admin_Login_Data_Driven>
+      finish pytest_collectstart --> [] [hook]
+      pytest_make_collect_report [hook]
+          collector: <Class Test_02_Admin_Login_Data_Driven>
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_02_Admin_Login_Data_Driven>
+            name: admin_page_url
+            obj: https://admin-demo.nopcommerce.com/login
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_02_Admin_Login_Data_Driven>
+            name: logger
+            obj: <RootLogger root (INFO)>
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_02_Admin_Login_Data_Driven>
+            name: path
+            obj: ./test_data/admin_login_data.xlsx
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_02_Admin_Login_Data_Driven>
+            name: status_list
+            obj: []
+        finish pytest_pycollect_makeitem --> None [hook]
+        pytest_pycollect_makeitem [hook]
+            collector: <Class Test_02_Admin_Login_Data_Driven>
+            name: test_valid_admin_login_data_driven
+            obj: <function Test_02_Admin_Login_Data_Driven.test_valid_admin_login_data_driven at 0x1068528b0>
+          pytest_generate_tests [hook]
+              metafunc: <_pytest.python.Metafunc object at 0x1064e65b0>
+          finish pytest_generate_tests --> [] [hook]
+        finish pytest_pycollect_makeitem --> [<Function test_valid_admin_login_data_driven>] [hook]
+      finish pytest_make_collect_report --> <CollectReport 'test_cases/test_admin_login_data_driven.py::Test_02_Admin_Login_Data_Driven' lenresult=1 outcome='passed'> [hook]
+    genitems <Function test_valid_admin_login_data_driven> [collection]
+      pytest_itemcollected [hook]
+          item: <Function test_valid_admin_login_data_driven>
+      finish pytest_itemcollected --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_admin_login_data_driven.py::Test_02_Admin_Login_Data_Driven' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases/test_admin_login_data_driven.py' lenresult=1 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collectreport [hook]
+          report: <CollectReport 'test_cases' lenresult=3 outcome='passed'>
+      finish pytest_collectreport --> [] [hook]
+      pytest_collection_modifyitems [hook]
+          session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+          config: <_pytest.config.Config object at 0x104d19fa0>
+          items: [<Function test_add_new_customer>, <Function test_title_verification>, <Function test_valid_admin_login>, <Function test_invalid_admin_login>, <Function test_valid_admin_login_data_driven>]
+        pytest_deselected [hook]
+            items: [<Function test_title_verification>, <Function test_valid_admin_login>, <Function test_invalid_admin_login>, <Function test_valid_admin_login_data_driven>]
+        finish pytest_deselected --> [] [hook]
+      finish pytest_collection_modifyitems --> [] [hook]
+      pytest_collection_finish [hook]
+          session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+        pytest_report_collectionfinish [hook]
+            config: <_pytest.config.Config object at 0x104d19fa0>
+            items: [<Function test_add_new_customer>]
+            start_path: /Users/khajavali.dudekula/PycharmProjects/nopcommerce
+            startdir: /Users/khajavali.dudekula/PycharmProjects/nopcommerce
+        finish pytest_report_collectionfinish --> [] [hook]
+      finish pytest_collection_finish --> [] [hook]
+    finish pytest_collection --> None [hook]
+    pytest_runtestloop [hook]
+        session: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=1>
+      pytest_runtest_protocol [hook]
+          item: <Function test_add_new_customer>
+          nextitem: None
+        pytest_runtest_logstart [hook]
+            nodeid: test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer
+            location: ('test_cases/test_add_new_user.py', 20, 'Test_03_Add_New_Customer.test_add_new_customer')
+        finish pytest_runtest_logstart --> [] [hook]
+        pytest_runtest_setup [hook]
+            item: <Function test_add_new_customer>
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='setup_logging' scope='session' baseid='test_cases'>
+              request: <SubRequest 'setup_logging' for <Function test_add_new_customer>>
+          finish pytest_fixture_setup --> None [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='browser' scope='function' baseid='test_cases'>
+              request: <SubRequest 'browser' for <Function test_add_new_customer>>
+          finish pytest_fixture_setup --> edge [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='setup' scope='function' baseid='test_cases'>
+              request: <SubRequest 'setup' for <Function test_add_new_customer>>
+          early skip of rewriting module: encodings.idna [assertion]
+          early skip of rewriting module: stringprep [assertion]
+          finish pytest_fixture_setup --> <selenium.webdriver.edge.webdriver.WebDriver (session="3f3c4af2cf520f2ffa7d9f92af394698")> [hook]
+          pytest_fixture_setup [hook]
+              fixturedef: <FixtureDef argname='logger' scope='function' baseid='test_cases'>
+              request: <SubRequest 'logger' for <Function test_add_new_customer>>
+          finish pytest_fixture_setup --> <function logger.<locals>.log_function_call at 0x106852e50> [hook]
+        finish pytest_runtest_setup --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_add_new_customer>
+            call: <CallInfo when='setup' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='setup' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='setup' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='setup' outcome='passed'>
+              config: <_pytest.config.Config object at 0x104d19fa0>
+          finish pytest_report_teststatus --> ('', '', '') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_call [hook]
+            item: <Function test_add_new_customer>
+          pytest_pyfunc_call [hook]
+              pyfuncitem: <Function test_add_new_customer>
+          finish pytest_pyfunc_call --> True [hook]
+        finish pytest_runtest_call --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_add_new_customer>
+            call: <CallInfo when='call' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='call' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='call' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='call' outcome='passed'>
+              config: <_pytest.config.Config object at 0x104d19fa0>
+          finish pytest_report_teststatus --> ('passed', '.', 'PASSED') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_teardown [hook]
+            item: <Function test_add_new_customer>
+            nextitem: None
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='logger' scope='function' baseid='test_cases'>
+              request: <SubRequest 'logger' for <Function test_add_new_customer>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='setup' scope='function' baseid='test_cases'>
+              request: <SubRequest 'setup' for <Function test_add_new_customer>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='setup' scope='function' baseid='test_cases'>
+              request: <SubRequest 'setup' for <Function test_add_new_customer>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='browser' scope='function' baseid='test_cases'>
+              request: <SubRequest 'browser' for <Function test_add_new_customer>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+          pytest_fixture_post_finalizer [hook]
+              fixturedef: <FixtureDef argname='setup_logging' scope='session' baseid='test_cases'>
+              request: <SubRequest 'setup_logging' for <Function test_add_new_customer>>
+          finish pytest_fixture_post_finalizer --> [] [hook]
+        finish pytest_runtest_teardown --> None [hook]
+        pytest_runtest_makereport [hook]
+            item: <Function test_add_new_customer>
+            call: <CallInfo when='teardown' result: None>
+        finish pytest_runtest_makereport --> <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='teardown' outcome='passed'> [hook]
+        pytest_runtest_logreport [hook]
+            report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='teardown' outcome='passed'>
+          pytest_report_teststatus [hook]
+              report: <TestReport 'test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer' when='teardown' outcome='passed'>
+              config: <_pytest.config.Config object at 0x104d19fa0>
+          finish pytest_report_teststatus --> ('', '', '') [hook]
+        finish pytest_runtest_logreport --> [] [hook]
+        pytest_runtest_logfinish [hook]
+            nodeid: test_cases/test_add_new_user.py::Test_03_Add_New_Customer::test_add_new_customer
+            location: ('test_cases/test_add_new_user.py', 20, 'Test_03_Add_New_Customer.test_add_new_customer')
+        finish pytest_runtest_logfinish --> [] [hook]
+      finish pytest_runtest_protocol --> True [hook]
+    finish pytest_runtestloop --> True [hook]
+    pytest_sessionfinish [hook]
+        session: <Session  exitstatus=0 testsfailed=0 testscollected=1>
+        exitstatus: 0
+      pytest_terminal_summary [hook]
+          terminalreporter: <_pytest.terminal.TerminalReporter object at 0x10643c640>
+          exitstatus: 0
+          config: <_pytest.config.Config object at 0x104d19fa0>
+      finish pytest_terminal_summary --> [] [hook]
+    finish pytest_sessionfinish --> [] [hook]
+    pytest_unconfigure [hook]
+        config: <_pytest.config.Config object at 0x104d19fa0>
+    finish pytest_unconfigure --> [] [hook]
